@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "role": "College Student",
+        "content": "Ashirwad Stationery is my go-to place for all assignment printouts and project binding. They are super fast and always friendly!",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "name": "Priya Patel",
+        "role": "Teacher",
+        "content": "I regularly get my exam papers and charts printed here. The quality is consistently excellent and the pricing is very reasonable.",
+        "rating": 5
+    },
+    {
+        "id": 3,
+        "name": "Amit Kumar",
+        "role": "Local Business Owner",
+        "content": "Reliable service for bulk photocopying and office supplies. Their new color printing setup is top-notch.",
+        "rating": 4
+    }
+]

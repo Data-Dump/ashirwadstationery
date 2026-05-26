@@ -1,0 +1,50 @@
+[
+    {
+        "id": "xerox",
+        "icon": "fa-copy",
+        "title": "Xerox & Photocopy",
+        "description": "High-quality bulk photocopying at affordable rates for students and offices."
+    },
+    {
+        "id": "bw-print",
+        "icon": "fa-print",
+        "title": "Black & White Printing",
+        "description": "Crisp, clear, and fast black & white document printing from any device."
+    },
+    {
+        "id": "color-print",
+        "icon": "fa-palette",
+        "title": "Color Printing",
+        "description": "Vibrant and high-resolution color prints for your important presentations."
+    },
+    {
+        "id": "cover-pages",
+        "icon": "fa-file-powerpoint",
+        "title": "Project Cover Pages",
+        "description": "Professionally designed and printed cover pages to make your work stand out."
+    },
+    {
+        "id": "assignments",
+        "icon": "fa-file-lines",
+        "title": "Assignment Printing",
+        "description": "Quick and reliable assignment printing tailored for school and college students."
+    },
+    {
+        "id": "binding",
+        "icon": "fa-book-medical",
+        "title": "Spiral Binding",
+        "description": "Durable spiral binding for notes, projects, and manuals with protective covers."
+    },
+    {
+        "id": "lamination",
+        "icon": "fa-id-card",
+        "title": "Lamination",
+        "description": "Premium lamination service to protect your important certificates and documents."
+    },
+    {
+        "id": "stationery",
+        "icon": "fa-pen-ruler",
+        "title": "Stationery Items",
+        "description": "A wide selection of pens, notebooks, and essential school/office supplies."
+    }
+]

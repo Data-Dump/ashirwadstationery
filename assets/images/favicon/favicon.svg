@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="100%" height="100%">
+  <rect width="180" height="180" rx="40" fill="#0D1B35" />
+  
+  <!-- Wax Seal Circular Borders -->
+  <circle cx="90" cy="90" r="68" fill="none" stroke="#C9956A" stroke-width="1.2" />
+  <circle cx="90" cy="90" r="61" fill="none" stroke="#C9956A" stroke-width="0.8" />
+  
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&amp;display=swap');
+      .monogram-a {
+        font-family: 'Cormorant Garamond', Georgia, serif;
+        font-weight: 600;
+        font-style: italic;
+        font-size: 96px;
+      }
+      .monogram-s {
+        font-family: 'Cormorant Garamond', Georgia, serif;
+        font-weight: 600;
+        font-style: italic;
+        font-size: 86px;
+      }
+    </style>
+  </defs>
+  
+  <g>
+    <!-- Overlapping Monogram A and S (matching PIL draw order exactly) -->
+    <!-- A Shadow -->
+    <text x="46" y="126" fill="rgba(0,0,0,0.39)" class="monogram-a">A</text>
+    <!-- A Base -->
+    <text x="44" y="124" fill="#C9956A" class="monogram-a">A</text>
+    <!-- A Sheen -->
+    <text x="43" y="123" fill="#E8C08A" class="monogram-a">A</text>
+    
+    <!-- S Shadow -->
+    <text x="86" y="130" fill="rgba(0,0,0,0.39)" class="monogram-s">S</text>
+    <!-- S Base -->
+    <text x="84" y="128" fill="#E8C08A" class="monogram-s">S</text>
+    <!-- S Sheen -->
+    <text x="83" y="127" fill="#C9956A" class="monogram-s">S</text>
+  </g>
+</svg>
